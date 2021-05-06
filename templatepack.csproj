@@ -1,17 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <PackageType>Template</PackageType>
-        <PackageVersion>1.2.0-pre1</PackageVersion>
+        <PackageVersion>1.2.0</PackageVersion>
         <PackageId>Neo3.SmartContract.Templates</PackageId>
         <Title>Neo3 Smart Contract Templates</Title>
         <Authors>NGD</Authors>
         <Description>Templates to use when creating a Neo3 smart contract.</Description>
         <PackageTags>dotnet-new;templates;neo3;smartcontract</PackageTags>
-        <PackageProjectUrl>https://github.com/Ashuaidehao/Neo3.SmartContract.Templates</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/neo-ngd/Neo3.SmartContract.Templates</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageIcon>icon.png</PackageIcon>
         <RepositoryType>git</RepositoryType>
-        <RepositoryUrl>https://github.com/Ashuaidehao/Neo3.SmartContract.Templates.git</RepositoryUrl>
+        <RepositoryUrl>https://github.com/neo-ngd/Neo3.SmartContract.Templates.git</RepositoryUrl>
         <TargetFramework>net5.0</TargetFramework>
         <IncludeContentInPack>true</IncludeContentInPack>
         <IncludeBuildOutput>false</IncludeBuildOutput>
